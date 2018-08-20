@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ConcessionariaJunior</string>
+    <string-array name="selecione">
+        <item>Selecione marcas</item>
+        <item>Audi</item>
+        <item>Volkswagen</item>
+        <item>BMW</item>
+        <item>Fiat</item>
+        <item>Ford</item>
+        <item>LandRover</item>
+        <item>Hyundai</item>
+        <item>Alfa Romeo</item>
+        <item>Ferrari</item>
+    </string-array>
+
+
+    <string name="btnSalvar">SAVE</string>
+    <string name="txtMarca">Marca</string>
+    <string name="txtModelo">Modelo</string>
+    <string name="txtCarga">Carga</string>
+    <string name="txtPassageiro">Passageiro</string>
+    <string name="txtNovo">Novo</string>
+</resources>
